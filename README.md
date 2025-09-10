@@ -92,7 +92,7 @@ where $$c\_{s1}$$ is the miscibility of the binary fluid and $$c\_{s2}$$ being i
 
 
 
-Futhermore, a nondimensional form could be given as 
+Furthermore, a nondimensional form could be given as 
 
 
 
@@ -180,7 +180,7 @@ where $$\\hat{r}$$ is the unit normal. here the injection rate is modified as $$
 
 
 
-Please see the references 1 and 2 for detailed understanding of the model.
+Please see references 1 and 2 for detailed understanding of the model.
 
 
 
